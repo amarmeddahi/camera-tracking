@@ -30,6 +30,10 @@ control points previously defined. The rotations of the camera will be calculate
 model of quaternions and a spherical approximation. These choices are justified by the nature we wanted to give to our project. We wish to model a camera tracking
 around a fixed subject for several observers distributed in the scene.
 
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](cam1.png)  |  ![](cam 2.png)
+
 ## Closed splines: advantages and disadvantages
 
 The modeling of an approximating or interpolating curve by a single polynomial presents
