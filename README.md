@@ -44,6 +44,7 @@ subdivision method is divided into 2 steps:
 - Duplicate the control points
 - Take n times (n the degree) the middle of two consecutive points in the polynomial of
 control polynomial.
+
 This algorithm allows us to obtain the set of points which constitutes the closing curve.
 Concerning the quaternion part, we used a method provided by Unity "LookRotation". This method allows to obtain the rotation vector reherched so that the camera is
 oriented towards the subject by providing a relative position and the up vector. The relative position
