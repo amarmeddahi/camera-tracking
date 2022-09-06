@@ -8,6 +8,8 @@ namely a few points.
   <img src="camera.gif" />
 </p>
 
+Main contact: Amar Meddahi (amar.meddahi1@gmail.com)
+
 # Tutorial
 
 * Create a basic 3D Unity project
