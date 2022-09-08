@@ -5,7 +5,7 @@ a camera trajectory tracking of an object by providing only a limited amount of 
 namely a few points.
 
 <p align="center">
-  <img src="camera.gif" />
+  <img src="res/camera.gif" />
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@ around a fixed subject for several observers distributed in the scene.
 
 Scene description            |  Camera trajectory computing
 :-------------------------:|:-------------------------:
-![](cam1.png)  |  ![](cam2.png)
+![](res/cam1.png)  |  ![](res/cam2.png)
 
 ## Closed splines: advantages and disadvantages
 
