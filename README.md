@@ -1,6 +1,6 @@
 # camera-tracking
 
-The objective of this repository is to propose a module under Unity3D which allows to realize
+The objective of this repository is to propose a Unity3D module which allows to realize
 a camera trajectory tracking of an object by providing only a limited amount of information,
 namely a few points.
 
@@ -8,7 +8,9 @@ namely a few points.
   <img src="camera.gif" />
 </p>
 
-Main contact: Amar Meddahi (amar.meddahi1@gmail.com)
+<p align="center">
+  figure: an example of a camera tracking
+</p>
 
 # Tutorial
 
